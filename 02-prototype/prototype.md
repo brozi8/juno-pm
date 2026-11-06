@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-[_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._](https://feedback-clarity-compass.lovable.app)
+(https://feedback-clarity-compass.lovable.app)
 
 _____
 
